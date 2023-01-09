@@ -1,14 +1,7 @@
 # Data-Poisoning-Attacks-to-Deep-Learning-Based-Recommender-Systems
 
 
-Data Poisoning Attacks to Deep Learning Based
-Recommender Systems
-Mahimanjali Lolla, Jhade Sai Rupa, B.Sai Gayathri, Lakshmi Sresha G, Anbazhagan M
-Department of Computer Science and Engineering
-Amrita School of Computing, Coimbatore
-Amrita Vishwa Vidyapeetham, India
-cb.en.u4cse{19128, 19623, 19012, 19019}@cb.students.amrita.edu, anbazhagan-m@cb.amrita.edu
-Abstract—Many web services, including Amazon, YouTube,
+Many web services, including Amazon, YouTube,
 and Google News, use recommendation systems to help users
 find interesting information. In industry, a wide range of
 recommendation systems have been developed and deployed,
